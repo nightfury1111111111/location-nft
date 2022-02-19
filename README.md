@@ -4,12 +4,6 @@ NFT Marketplace on Harmony ONE blockchain testnet. NFT is an SVG generated on-ch
 
 The moving gradient is uniquely generated based on the latitude and longitude.
 
-## NFT samples
-
-![sample0](/images/nft-example-0.svg)
-![sample1](/images/nft-example-1.svg)
-![sample2](/images/nft-example-2.svg)
-
 ## Features
 
 - On-chain NFT generated via SVG, inspired by Uniswap LP NFT.
